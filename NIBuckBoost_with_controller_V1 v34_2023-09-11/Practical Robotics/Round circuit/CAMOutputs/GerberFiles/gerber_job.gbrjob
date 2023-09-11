@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-09-11T09:13:15Z",
+        "GenerationSoftware": {
+            "Application": "Fusion 360 Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "NIBuckBoost_with_controller_V1 v34"
+        },
+        "Owner": "Tayasan Milinda <malinda19900407@gmail.com>",
+        "Size": {
+            "X": 37,
+            "Y": 40
+        }
+    }
+}

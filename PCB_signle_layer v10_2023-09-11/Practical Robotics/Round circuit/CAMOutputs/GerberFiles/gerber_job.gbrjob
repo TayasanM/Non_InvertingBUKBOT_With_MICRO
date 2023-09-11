@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-09-11T09:19:19Z",
+        "GenerationSoftware": {
+            "Application": "Fusion 360 Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PCB_signle_layer v10"
+        },
+        "Owner": "Tayasan Milinda <malinda19900407@gmail.com>",
+        "Size": {
+            "X": 63.48,
+            "Y": 75.87
+        }
+    }
+}
